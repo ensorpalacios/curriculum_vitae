@@ -1,0 +1,5 @@
+# ignore all latex generated files
+*.aux
+*.log
+*.out
+*.tex~
